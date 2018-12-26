@@ -1,0 +1,6 @@
+azure:
+  keyvault:
+    enabled: false
+    uri: ''
+    client-id: ''
+    client-key: ''
